@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
 <h3 align="center">Web Development</h3>
 
-- 🌱 I’m currently learning **Typescript**, **PostgreSQL**, **Docker**
+- 🌱 I’m currently learning **Typescript**, **PostgreSQL**,**GraphQL**, **Docker**
 
 - 🚀 Still Improving **React.js, Node.js, Express.js, MongoDB**
 
