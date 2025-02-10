@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
 <h3 align="center">Backend Development</h3>
 
+- 🔭 I’m currently working on [CrashView](https://github.com/efesn/CrashView-Advanced) and [SpotiLang](https://github.com/efesn/spotilang-landing/tree/main)
+  
 - 🌱 I’m currently learning **GraphQL**, **Docker**, **CI/CD**
 
 - 🚀 Still Improving **MERN Stack**, **.NET Core**
