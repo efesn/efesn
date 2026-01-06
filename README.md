@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
-<h3 align="center">Backend Development</h3>
+<h3 align="center">Developer & Cybersecurity Enthusiast</h3>
 
 - 🔭 I’m currently working on [SpotiLang](https://github.com/efesn/spotilang-landing/tree/main) and [AgentThreat](https://github.com/efesn/AgentThreat)
   
