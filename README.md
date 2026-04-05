@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **GraphQL**, **Docker**, **CI/CD**
 
-- 🚀 Still Improving **MERN Stack**, **.NET Core**
+- 🚀 Still Improving **Flutter**, **MERN Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
